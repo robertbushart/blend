@@ -25,13 +25,13 @@ body {
 }
 
 a {
-  color: #7ac143;
+  color: #c96969;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #7ac143;
+  color: #c96969;
   outline: none;
 }
 
@@ -164,7 +164,7 @@ figure figcaption {
   bottom: 7px;
   left: 10px;
   right: 10px;
-  background-color: #7ac143;
+  background-color: #c96969;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
@@ -348,7 +348,7 @@ figure figcaption {
   }
 }
 .fh5co-gallery .gallery-item .overlay span {
-  color: #7ac143;
+  color: #c96969;
   color: rgba(255, 255, 255, 0.7);
   font-size: 11px;
   letter-spacing: 2px;
@@ -437,7 +437,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   color: #000;
 }
 .work-pagination a:hover {
-  color: #7ac143;
+  color: ##c96969;
   text-decoration: none;
 }
 @media screen and (max-width: 480px) {
@@ -532,7 +532,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 
 .fh5co-heading-colored {
-  color: #7ac143;
+  color: ##c96969;
 }
 
 .fh5co-cards {
@@ -591,7 +591,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 
 .fh5co-counter .fh5co-number {
   font-size: 100px;
-  color: #7ac143;
+  color: #c96969;
   font-weight: 400;
   margin: 0;
   padding: 0;
@@ -661,12 +661,12 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   }
 }
 .fh5co-social li a:hover {
-  color: #7ac143;
+  color: #c96969;
 }
 .fh5co-social li a:hover, .fh5co-social li a:active, .fh5co-social li a:focus {
   outline: none;
   text-decoration: none;
-  color: #7ac143;
+  color: #c96969;
 }
 
 #map {
@@ -696,7 +696,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   margin-top: 5px;
 }
 .fh5co-feature .fh5co-icon i {
-  color: #7ac143;
+  color: #c96969;
   font-size: 70px;
 }
 @media screen and (max-width: 1200px) {
@@ -705,7 +705,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   }
 }
 .fh5co-feature.fh5co-feature-sm .fh5co-icon i {
-  color: #7ac143;
+  color: #c96969;
   font-size: 28px;
 }
 @media screen and (max-width: 1200px) {
@@ -969,7 +969,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #7ac143;
+  color: #c96969;
   border: 2px solid #7ac143;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
@@ -1083,7 +1083,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #7ac143;
+  border-color: #c96969;
 }
 
 #message {
