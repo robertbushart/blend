@@ -1,9 +1,11 @@
 
 TITLE: 
 Blend - Fully Responsive Free HTML5 template
+Adapted by Robert Bush
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
+Adapted by Robert Bush
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
