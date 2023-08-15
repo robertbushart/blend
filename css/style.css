@@ -920,7 +920,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 .owl-theme .owl-dots .owl-dot span:hover {
   background: none;
-  border: 3px solid #7ac143;
+  border: 3px solid #c96969;
 }
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
@@ -959,47 +959,47 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 
 .btn-primary {
-  background: #7ac143;
+  background: #c96969;
   color: #fff;
-  border: 2px solid #7ac143;
+  border: 2px solid #c96969;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #88c756 !important;
-  border-color: #88c756 !important;
+  background: #c96969 !important;
+  border-color: #c96969 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
   color: #c96969;
-  border: 2px solid #7ac143;
+  border: 2px solid #c96969;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #7ac143;
+  background: #c96969;
   color: #fff;
 }
 
 .btn-success {
-  background: #5cb85c;
+  background: #b0de5c;
   color: #fff;
-  border: 2px solid #5cb85c;
+  border: 2px solid #b0de5c;
 }
 .btn-success:hover, .btn-success:focus, .btn-success:active {
-  background: #4cae4c !important;
-  border-color: #4cae4c !important;
+  background: #b0de5c !important;
+  border-color: #b0de5c !important;
 }
 .btn-success.btn-outline {
   background: transparent;
-  color: #5cb85c;
-  border: 2px solid #5cb85c;
+  color: #b0de5c;
+  border: 2px solid #b0de5c;
 }
 .btn-success.btn-outline:hover, .btn-success.btn-outline:focus, .btn-success.btn-outline:active {
-  background: #5cb85c;
+  background: #b0de5c;
   color: #fff;
 }
 
 .btn-info {
-  background: #5bc0de;
+  background: #46b8da;
   color: #fff;
-  border: 2px solid #5bc0de;
+  border: 2px solid #46b8da;
 }
 .btn-info:hover, .btn-info:focus, .btn-info:active {
   background: #46b8da !important;
@@ -1007,11 +1007,11 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 .btn-info.btn-outline {
   background: transparent;
-  color: #5bc0de;
-  border: 2px solid #5bc0de;
+  color: #46b8da;
+  border: 2px solid #46b8da;
 }
 .btn-info.btn-outline:hover, .btn-info.btn-outline:focus, .btn-info.btn-outline:active {
-  background: #5bc0de;
+  background: #46b8da;
   color: #fff;
 }
 
